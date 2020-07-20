@@ -1,0 +1,20 @@
+{
+  "name": "burgeysrevenge",
+  "version": "1.0.0",
+  "description": "Burger app created for fullstack boot camp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnaporski/burgeysrevenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnaporski/burgeysrevenge/issues"
+  },
+  "homepage": "https://github.com/jnaporski/burgeysrevenge#readme"
+}
